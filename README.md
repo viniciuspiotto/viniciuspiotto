@@ -1,6 +1,6 @@
 ---
 
-👋 Olá! Meu nome é Vinicius Piotto, estudante de Ciência da Computação e desenvolvedor back-end Java com certificação AWS. Estou comprometido em aprimorar minhas habilidades na construção de aplicações robustas e seguras na nuvem.
+👋 Olá! Meu nome é Vinicius Piotto, estudante de Ciência da Computação e desenvolvedor back-end Java com certificação AWS.
 
 🎓 **Educação:**
 - Ciência da Computação na Universidade Federal de Alfenas, com previsão de formatura em 01/2027.
@@ -13,9 +13,6 @@
 👨‍💻 **Experiência Prática:**
 - Trabalho em diversos projetos acadêmicos e pessoais, aplicando boas práticas de código e arquitetura de software.
 - Realizei um projeto de infraestrutura no Hackathon da empresa AdaTech.
-
-🌱 **Desenvolvimento Profissional:**
-- Ativamente envolvido em workshops e cursos para aprofundar conhecimentos em desenvolvimento de software e tecnologias AWS.
 
 📫 **Contato:**
 - **E-mail:** viniciuspiotto.dev@gmail.com
