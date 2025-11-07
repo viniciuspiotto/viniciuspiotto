@@ -4,28 +4,29 @@ Entusiasta da tecnologia focado em construir **soluções Fullstack robustas**. 
 
 ### 🛠️ Conhecimentos Técnicos
 
+#### Backend:
+- Java
+- Spring Boot
+- Junit
+- PostgreSQL
+- Redis
+- ElasticSearch
+- Kafka
+- Microsserviços
+- DDD
+- Arquitetura orientada a eventos
+
+#### Infraestrutura:
+- Docker
+- Github Actions
+- Terraform
+- AWS
+- Granana/Prometheus
+
 #### Frontend:
-* React
-* TypeScript
-* Shadcn UI
-* Tailwind CSS
-* Recharts
-* PWA
-
-#### Backend e Banco de Dados:
-* Node.js
-* Express
-* NestJS
-* PostgreSQL
-* TypeORM
-* Kafka
-* Microsserviços
-* DDD
-* Arquitetura orientada a eventos
-
-#### Ferramentas e Processos:
-* Git
-* Metodologias Ágeis (Scrum/Kanban)
-* Análise de Requisitos
+- React
+- TypeScript
+- Shadcn UI
+- Tailwind
 
 📍 **São Paulo, SP**
